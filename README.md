@@ -1,3 +1,6 @@
+> [!NOTE]
+> De ontwikkeling van DIZRA is stopgezet. Deze zal worden opgenomen in de nieuwe doelarchitectuur. Deze repository is alleen beschikbaar ter archief.
+
 ---
 description: >-
   DIZRA staat voor de referentiearchitectuur van een duurzaam informatiestelsel
